@@ -43,7 +43,7 @@ Data Analyst junior, je transforme des données brutes en insights business acti
 
 ## 📁 Projets portfolio
 
-### 🚒 [London Fire Brigade Analysis](./london-fire-brigade-analysis)
+### 🚒 [London Fire Brigade Analysis](./london-fire-brigade-analysis) - EN COURS de création
 > Analyse des interventions de la Brigade des Pompiers de Londres — optimisation des temps de réponse et répartition géographique des incidents
 
 - **Problématique** : quels facteurs influencent les temps de réponse, et quelles zones concentrent le plus d'incidents ?
@@ -57,7 +57,8 @@ https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records
 
 ---
 
-### 🛒 [Superstore Sales Analysis](./superstore-sales-analysis)
+### 🛒 [Superstore Sales Analysis](https://github.com/[ton-username]/superstore-sales-analysis)
+
 > Analyse des ventes d'une chaîne retail américaine — identification des leviers de rentabilité
 
 - **Problématique** : quels produits, régions et comportements de remise impactent la marge ?
