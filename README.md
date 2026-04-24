@@ -57,7 +57,7 @@ https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records
 
 ---
 
-### 🛒 [Superstore Sales Analysis](https://github.com/[ton-username]/superstore-sales-analysis)
+### 🛒 [Superstore Sales Analysis](https://github.com/ArnaudHoupert/superstore-sales-analysis)
 
 > Analyse des ventes d'une chaîne retail américaine — identification des leviers de rentabilité
 
