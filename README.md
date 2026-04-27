@@ -1,6 +1,6 @@
 # Bonjour, je suis Arnaud Houpert 👋
 
-Diplômé en droit privé et en marketing/communication stratégique, j'ai complété mon parcours par une formation certifiée Data Analyst (Liora, co-certifié École des Mines) pour combiner sensibilité business et maîtrise de la donnée.
+Initialement diplômé en droit privé puis en marketing/communication stratégique, j'ai complété mon parcours par une formation certifiée Data Analyst (Liora, co-certifié École des Mines) pour combiner sensibilité business et maîtrise de la donnée.
 
 Habitué à évoluer dans des environnements variés je m'appuie sur une capacité d'analyse développée au fil de mes expériences pour transformer des données brutes en insights actionnables.
 
