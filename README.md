@@ -83,5 +83,5 @@ projet/
 
 ## 🎯 Objectif
 
-Je recherche un poste de **Data Analyst**.  
+Je recherche un poste de **Data Analyst** ou de **Business Analyst**
 N'hésites pas à me contacter : arnaudhoupertpro@gmail.com | https://www.linkedin.com/in/arnaud-houpert/
