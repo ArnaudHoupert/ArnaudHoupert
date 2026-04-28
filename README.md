@@ -43,7 +43,7 @@ Data Analyst junior, je transforme des données brutes en insights business acti
 
 ## 📁 Projets portfolio
 
-### 🚒 [London Fire Brigade Analysis](./london-fire-brigade-analysis) - EN COURS de création
+### 🚒 [London Fire Brigade Analysis](https://github.com/ArnaudHoupert/london-fire-brigade-analysis)
 > Analyse des interventions de la Brigade des Pompiers de Londres — optimisation des temps de réponse et répartition géographique des incidents
 
 - **Problématique** : quels facteurs influencent les temps de réponse, et quelles zones concentrent le plus d'incidents ?
